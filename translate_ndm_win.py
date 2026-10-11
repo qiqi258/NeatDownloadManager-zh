@@ -96,6 +96,7 @@ TRANSLATIONS = {
     "Incomplete": "未完成",
     "Misc": "杂项",
     "Audio": "音频",
+    "Video":"视频",
 
     # ===== 主窗口 - 列标题 =====
     "Status": "状态",
@@ -121,6 +122,7 @@ TRANSLATIONS = {
     "Properties": "属性",
     "Show Window": "显示窗口",
     "Open Folder": "打开文件夹",
+    "Open": "打开",
     "Download Completed": "下载完成",
     "NeatDownloadManager Main Window": "NeatDownloadManager 主窗口",
 
